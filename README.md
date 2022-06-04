@@ -1,8 +1,10 @@
-Prerequisites
+**Prerequisites**
+
 •	Install IDE Visual Studio Code (Preferred)
 •	to have Node.js installed on your machine. V14
 
-Running instructions
+**Running instructions**
+
 •	Clone the project into your machine
 •	We can execute the test scripts using 2 options:
   1) the command line CLI (Headless execution) 
